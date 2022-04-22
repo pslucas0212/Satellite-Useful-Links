@@ -4,7 +4,7 @@
 
 ## Red Hat Smart Management  
 - [Red Hat Satellite 6.10 Release Notes - GA 16 November 2021](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.10/html-single/release_notes/index)
-
+- [Satellite 6.10 Performance Tuning Guide](https://redhatsatellite.github.io/satellite-performance-tuning/)
 
 
 ### Running Satellite in an Air-Gapped Environment

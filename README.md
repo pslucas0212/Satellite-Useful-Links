@@ -18,6 +18,7 @@
 
 ## Troubleshooting
 - [Common issues with Satellite 6 upgrade or installation](https://access.redhat.com/articles/2485491#common-issues---satellite-69-8)
+- [Chapter 12. Logging and Reporting Problems](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.10/html/planning_for_red_hat_satellite/index)
 - [Pulp content migration stat fails due to missing or corrupt RPM](https://access.redhat.com/solutions/6529711)
 - [How to determine the repository to run Verify Checksum on for reported corrupted RPMs](https://access.redhat.com/solutions/6629271)
 - [Is it possible to ignore "WARNING" when migrating from pulp2 to pulp3?](https://access.redhat.com/solutions/6822731)

@@ -17,5 +17,5 @@
 - [Common issues with Satellite 6 upgrade or installation](https://access.redhat.com/articles/2485491#common-issues---satellite-69-8)
 - [Pulp content migration stat fails due to missing or corrupt RPM](https://access.redhat.com/solutions/6529711)
 - [How to determine the repository to run Verify Checksum on for reported corrupted RPMs](https://access.redhat.com/solutions/6629271)
-- [https://access.redhat.com/solutions/6822731](https://access.redhat.com/solutions/6822731)
+- [Is it possible to ignore "WARNING" when migrating from pulp2 to pulp3?](https://access.redhat.com/solutions/6822731)
 - [Satellite 6: What is foreman-debug and how do I run it?](https://access.redhat.com/solutions/1177823)

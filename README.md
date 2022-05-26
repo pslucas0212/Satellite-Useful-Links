@@ -19,3 +19,4 @@
 - [How to determine the repository to run Verify Checksum on for reported corrupted RPMs](https://access.redhat.com/solutions/6629271)
 - [Is it possible to ignore "WARNING" when migrating from pulp2 to pulp3?](https://access.redhat.com/solutions/6822731)
 - [Satellite 6: What is foreman-debug and how do I run it?](https://access.redhat.com/solutions/1177823)
+- [Red Hat Satellite 6: key log files and how to enable debug logging (Foreman, Katello, Puppet, Pulp, Candlepin, Hammer, etc.](https://access.redhat.com/solutions/1155573)

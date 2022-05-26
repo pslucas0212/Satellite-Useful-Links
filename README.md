@@ -18,4 +18,4 @@
 - [Pulp content migration stat fails due to missing or corrupt RPM](https://access.redhat.com/solutions/6529711)
 - [https://access.redhat.com/solutions/6629271](https://access.redhat.com/solutions/6629271)
 - [https://access.redhat.com/solutions/6822731](https://access.redhat.com/solutions/6822731)
-- [Satellite 6: What is foreman-debug and how do I run it?](Satellite 6: What is foreman-debug and how do I run it?)
+- [Satellite 6: What is foreman-debug and how do I run it?]([Satellite 6: What is foreman-debug and how do I run it?](https://access.redhat.com/solutions/1177823)

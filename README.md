@@ -6,6 +6,9 @@
 - [Red Hat Satellite 6.10 Release Notes - GA 16 November 2021](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.10/html-single/release_notes/index)
 - [Satellite 6.10 Performance Tuning Guide](https://redhatsatellite.github.io/satellite-performance-tuning/)
 
+## Planning and Architecture
+- [Planning for Red Hat Satellite](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.10/html/planning_for_red_hat_satellite/index) - I recommend starting here to learn more Red Hat Satellite
+
 
 ## Running Satellite in an Air-Gapped Environment
 - [APPENDIX D. SYNCHRONIZING CONTENT BETWEEN SATELLITE SERVERS](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.3/html/content_management_guide/using_iss) - from 6.3 KnowledgeCenter with a architecture diagram

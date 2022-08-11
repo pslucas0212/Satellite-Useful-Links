@@ -16,6 +16,11 @@
 - [Satellite 6.2 Feature Overview: Inter-Satellite Sync ](https://www.redhat.com/en/about/videos/satellite-feature-intersatellite-sync) - Video from 6.2 release
 - [[Satellite 6] Hardware Requirements for Inter-Satellite Sync (ISS)](https://access.redhat.com/solutions/5304971)
 
+
+## Ansible and Satellite
+- [Scope of Support for Ansible Components included with Red Hat Satellite 6](https://access.redhat.com/articles/3616041)
+
+
 ## Troubleshooting
 - [Common issues with Satellite 6 upgrade or installation](https://access.redhat.com/articles/2485491#common-issues---satellite-69-8)
 - [Chapter 12. Logging and Reporting Problems](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.10/html/planning_for_red_hat_satellite/index)

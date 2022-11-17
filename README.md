@@ -34,3 +34,4 @@
 
 ## Other Topics
 - [Red Hat Virtualization Agent (virt-who) Configuration Helper](https://access.redhat.com/labs/virtwhoconfig/)
+- [Satellite 6 Inventory Report Instructions](https://github.com/pslucas0212/Satellite-6-Inventory-Report-Instructions)

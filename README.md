@@ -3,12 +3,18 @@
 [Table of Contents - Useful Red Hat Links](https://github.com/pslucas0212/UsefulRedHatLinks)
 
 ## Red Hat Smart Management  
+- [Red Hat Satellite Release Dates](https://access.redhat.com/articles/1365633)
+- [Red Hat Satellite 6.12 is now available](https://www.redhat.com/en/blog/red-hat-satellite-612-now-available)
+- [What's new in Red Hat Satellite 6.12](https://www.redhat.com/en/about/videos/whats-new-in-satellite-6-12) - Video Presentation
+- [Red Hat Satellite 6.12 - Release Notes](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.12/html/release_notes/index)
+- [[Red Hat Satellite 6.12 - Tuning Performance of Red Hat Satellite](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.12/html/tuning_performance_of_red_hat_satellite/index)
 - [Red Hat Satellite 6.10 Release Notes - GA 16 November 2021](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.10/html-single/release_notes/index)
 - [Satellite 6.10 Performance Tuning Guide](https://redhatsatellite.github.io/satellite-performance-tuning/)
 - [Red Hat Satellite 6: performance tuning](https://access.redhat.com/solutions/1257143)
 
 ## Planning and Architecture
 - [Planning for Red Hat Satellite](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.10/html/planning_for_red_hat_satellite/index) - I recommend starting here to learn more Red Hat Satellite
+- [Red Hat Satellite 6.12 - Upgrading and Updating Red Hat Satellite](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.12/html-single/upgrading_and_updating_red_hat_satellite/index)
 
 
 ## Running Satellite in an Air-Gapped Environment

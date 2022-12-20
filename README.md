@@ -14,9 +14,11 @@
 
 ## Planning and Architecture
 - [Planning for Red Hat Satellite](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.10/html/planning_for_red_hat_satellite/index) - I recommend starting here to learn more Red Hat Satellite
+
+## Administration
+- [How to backup and restore a Red Hat Satellite 6 system?](https://access.redhat.com/solutions/1595963)
 - [Red Hat Satellite 6.12 - Upgrading and Updating Red Hat Satellite](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.12/html-single/upgrading_and_updating_red_hat_satellite/index)
 - [Red Hat Satellite Upgrade Helper](https://access.redhat.com/labsinfo/satelliteupgradehelper)
-
 
 ## Running Satellite in an Air-Gapped Environment
 - [APPENDIX D. SYNCHRONIZING CONTENT BETWEEN SATELLITE SERVERS](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.3/html/content_management_guide/using_iss) - from 6.3 KnowledgeCenter with a architecture diagram

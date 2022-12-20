@@ -15,6 +15,7 @@
 ## Planning and Architecture
 - [Planning for Red Hat Satellite](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.10/html/planning_for_red_hat_satellite/index) - I recommend starting here to learn more Red Hat Satellite
 - [Red Hat Satellite 6.12 - Upgrading and Updating Red Hat Satellite](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.12/html-single/upgrading_and_updating_red_hat_satellite/index)
+- [Red Hat Satellite Upgrade Helper](https://access.redhat.com/labsinfo/satelliteupgradehelper)
 
 
 ## Running Satellite in an Air-Gapped Environment

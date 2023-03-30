@@ -18,7 +18,7 @@
 ## Administration
 - [How to backup and restore a Red Hat Satellite 6 system?](https://access.redhat.com/solutions/1595963)
 - [Red Hat Satellite 6.12 - Upgrading and Updating Red Hat Satellite](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.12/html-single/upgrading_and_updating_red_hat_satellite/index)
-- [Red Hat Satellite Upgrade Helper](https://access.redhat.com/labsinfo/satelliteupgradehelper)
+- [Red Hat Satellite Upgrade Helper](https://access.redhat.com/labsinfo/satelliteupgradehelper) - This application generates step-by-step instructions for upgrading Satellite from one point release to the next.
 - [How to use the noop option to check for changes in Satellite config files when running satellite-installer](https://access.redhat.com/solutions/3351311)
 
 ## Running Satellite in an Air-Gapped Environment

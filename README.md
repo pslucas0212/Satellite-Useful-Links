@@ -4,6 +4,7 @@
 
 ## Red Hat Smart Management  
 - [Red Hat Satellite Release Dates](https://access.redhat.com/articles/1365633)
+- [Red Hat Satellite 6.13 is now available](https://www.redhat.com/en/blog/red-hat-satellite-613-now-available)
 - [Red Hat Satellite 6.12 is now available](https://www.redhat.com/en/blog/red-hat-satellite-612-now-available)
 - [What's new in Red Hat Satellite 6.12](https://www.redhat.com/en/about/videos/whats-new-in-satellite-6-12) - Video Presentation
 - [Red Hat Satellite 6.12 - Release Notes](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.12/html/release_notes/index)

@@ -14,6 +14,7 @@
 - [Red Hat Satellite 6: performance tuning](https://access.redhat.com/solutions/1257143)
 
 ## Planning and Architecture
+- [Red Hat Satellite Product Life Cycle](https://access.redhat.com/support/policy/updates/satellite)
 - [Planning for Red Hat Satellite](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.10/html/planning_for_red_hat_satellite/index) - I recommend starting here to learn more Red Hat Satellite
 
 ## Administration

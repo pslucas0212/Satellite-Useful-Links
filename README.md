@@ -23,6 +23,12 @@
 - [Red Hat Satellite Upgrade Helper](https://access.redhat.com/labsinfo/satelliteupgradehelper) - This application generates step-by-step instructions for upgrading Satellite from one point release to the next.
 - [How to use the noop option to check for changes in Satellite config files when running satellite-installer](https://access.redhat.com/solutions/3351311)
 
+## Patching
+- [Introduction to the Tracer feature in Satellite](https://www.redhat.com/en/blog/introduction-tracer-feature-satellite)
+- [RHEL package updates and live kernel patching with Red Hat Satellite](https://www.redhat.com/en/blog/rhel-package-updates-and-live-kernel-patching-red-hat-satellite)
+- [Satellite 6.3 Feature Overview: Tracer [Tech Preview]](https://access.redhat.com/articles/3358611)
+- [Using Satellite for Red Hat Enterprise Linux Live Kernel Patching](https://www.youtube.com/watch?v=lUofdsUXcZ8) - YouTube Video
+  
 ## Running Satellite in an Air-Gapped Environment
 - [APPENDIX D. SYNCHRONIZING CONTENT BETWEEN SATELLITE SERVERS](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.3/html/content_management_guide/using_iss) - from 6.3 KnowledgeCenter with a architecture diagram
 - [CHAPTER 8. SYNCHRONIZING CONTENT BETWEEN SATELLITE SERVERS](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.10/html/content_management_guide/using_iss) - from 6.10 KnowledgeCenter

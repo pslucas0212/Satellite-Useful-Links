@@ -26,6 +26,9 @@
 - [Red Hat Satellite Upgrade Helper](https://access.redhat.com/labsinfo/satelliteupgradehelper) - This application generates step-by-step instructions for upgrading Satellite from one point release to the next.
 - [How to use the noop option to check for changes in Satellite config files when running satellite-installer](https://access.redhat.com/solutions/3351311)
 
+## Peformance Tuning Satellite
+- [Tuning Performance of Red Hat Satellite](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.14/html/tuning_performance_of_red_hat_satellite/index)
+
 ## Patching
 - [Introduction to the Tracer feature in Satellite](https://www.redhat.com/en/blog/introduction-tracer-feature-satellite)
 - [RHEL package updates and live kernel patching with Red Hat Satellite](https://www.redhat.com/en/blog/rhel-package-updates-and-live-kernel-patching-red-hat-satellite)

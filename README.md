@@ -18,6 +18,13 @@ FYI... [Red Hat Software Subscription Policy.  AKA "The all or nothing clause."]
 - [Satellite 6.10 Performance Tuning Guide](https://redhatsatellite.github.io/satellite-performance-tuning/)
 - [Red Hat Satellite 6: performance tuning](https://access.redhat.com/solutions/1257143)
 
+## Red Hat Satellite Workshops and Learning
+- [Self-paced Lab: Red Hat Satellite Basics](https://red.ht/satellite-basics-workshop)
+- [Introduction and Installation | Up and Running with Red Hat Satellite 01](https://www.youtube.com/watch?v=QRN6oPeg0bY) - YouTube
+- [Managing Content Views & Subscriptions | Up and Running with Red Hat Satellite 02](https://www.youtube.com/watch?v=GAxec86rfNQ) - YouTube
+- [Patching and Security mitigation | Up and Running with Red Hat Satellite 03](https://www.youtube.com/watch?v=MRuCo5joFzY) - YouTube
+- [Standardization and Management at Scale | Up and Running with Red Hat Satellite 04](https://www.youtube.com/watch?v=e87Ly1uCot8) - YouTube
+
 ## Planning and Architecture
 - [Red Hat Satellite Product Life Cycle](https://access.redhat.com/support/policy/updates/satellite)
 - [Planning for Red Hat Satellite](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.10/html/planning_for_red_hat_satellite/index) - I recommend starting here to learn more Red Hat Satellite

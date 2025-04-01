@@ -1,10 +1,10 @@
-# Red Hat Smart Management
+# Red Hat Satellite
 
 [Table of Contents - Useful Red Hat Links](https://github.com/pslucas0212/UsefulRedHatLinks)
 
 FYI... [Red Hat Software Subscription Policy.  AKA "The all or nothing clause."](https://github.com/pslucas0212/Red-Hat-Software-Subscription-Policy)
 
-## Red Hat Smart Management  
+## Red Hat Satellite
 - [Product Documentation for Red Hat Satellite](https://access.redhat.com/documentation/en-us/red_hat_satellite/)
 - [Red Hat Satellite Release Dates](https://access.redhat.com/articles/1365633)
 - [Red Hat Satellite 6.14 is now available](https://www.redhat.com/en/blog/red-hat-satellite-614-now-available)

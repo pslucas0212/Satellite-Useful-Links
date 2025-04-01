@@ -1,0 +1,15 @@
+Satellite TAM Recommendation for starting out with Satellite
+
+Here's my recommendation: keep Satellite Simple (to start)
+One organization
+One content view per OS release
+One content view for internal software versioning
+Use composite content views to combine them.
+Don't sync the Red Hat repos daily. It wastes compute, and you aren't going to patch daily.
+Setup activation keys to control repositories and limit subscription consumption
+Use the built in Ansible modules to manage the publishing and promotion of your content views.
+
+Next steps:
+Setup host groups to control provisioning and tagging for automation. Remote execution from Satellite is useful and flexible. It centralizes patch management, and the visibility of scheduling those patches per host groups.
+Use Insights to see proactive system and environment specific trends that you may not have discovered on your own. Satellite acts as a proxy and remediation engine for insights.
+All these are additive, and can be done over time. Take them as bite size exercises to implement. Feel free to PM me if you have environment specific questions that you don't want to talk about here

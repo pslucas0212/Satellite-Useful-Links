@@ -5,6 +5,8 @@
 FYI... [Red Hat Software Subscription Policy.  AKA "The all or nothing clause."](https://github.com/pslucas0212/Red-Hat-Software-Subscription-Policy)
 
 ## Red Hat Satellite
+- [Satellite 6 Component Versions](https://access.redhat.com/articles/1343683)
+  
 - [Product Documentation for Red Hat Satellite](https://access.redhat.com/documentation/en-us/red_hat_satellite/)
 - [Red Hat Satellite Release Dates](https://access.redhat.com/articles/1365633)
 - [Red Hat Satellite 6.16 is now available](https://www.redhat.com/en/blog/red-hat-satellite-616-now-available#:~:text=We%20are%20excited%20to%20announce,Enterprise%20Linux%20(RHEL)%20environments.)
@@ -19,6 +21,7 @@ FYI... [Red Hat Software Subscription Policy.  AKA "The all or nothing clause."]
 - [Red Hat Satellite 6.10 Release Notes - GA 16 November 2021](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.10/html-single/release_notes/index)
 - [Satellite 6.10 Performance Tuning Guide](https://redhatsatellite.github.io/satellite-performance-tuning/)
 - [Red Hat Satellite 6: performance tuning](https://access.redhat.com/solutions/1257143)
+  
 
 ## Red Hat Satellite Workshops and Learning
 - [Self-paced Lab: Red Hat Satellite Basics](https://red.ht/satellite-basics-workshop)

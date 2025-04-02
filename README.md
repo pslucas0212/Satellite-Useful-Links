@@ -31,7 +31,7 @@ FYI... [Red Hat Software Subscription Policy.  AKA "The all or nothing clause."]
 - [Standardization and Management at Scale | Up and Running with Red Hat Satellite 04](https://www.youtube.com/watch?v=e87Ly1uCot8) - YouTube
 
 ## Planning and Architecture
-- [Upgrade Red Hat Satellite & Capsule Using Satellite Upgrade Helper – Step-by-Step Guide}(https://www.youtube.com/watch?v=Z0s1ZvKtJSg) - Red Hat YouTube video
+- [Upgrade Red Hat Satellite & Capsule Using Satellite Upgrade Helper – Step-by-Step Guide](https://www.youtube.com/watch?v=Z0s1ZvKtJSg) - Red Hat YouTube video
 - [How to install Red Hat Satellite 6.16 on RHEL 9 + Minimal Implementation](https://www.youtube.com/watch?v=g8i7PTYj74k) - YouTube video.  Note: This is not an official Red Hat video, but comes from a Red hat software engineer
 - [Red Hat Satellite Product Life Cycle](https://access.redhat.com/support/policy/updates/satellite)
 - [Planning for Red Hat Satellite](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.10/html/planning_for_red_hat_satellite/index) - I recommend starting here to learn more Red Hat Satellite

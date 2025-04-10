@@ -25,6 +25,7 @@ FYI... [Red Hat Software Subscription Policy.  AKA "The all or nothing clause."]
 
 ## Red Hat Satellite Workshops and Learning
 - [Self-paced Lab: Red Hat Satellite Basics](https://red.ht/satellite-basics-workshop)
+- [Red Hat Satellite: Essential Training](https://www.youtube.com/playlist?list=PLbMP1JcGBmSEnmwbVGvtX-URDxmgOYOGd) - YouTube
 - [Introduction and Installation | Up and Running with Red Hat Satellite 01](https://www.youtube.com/watch?v=QRN6oPeg0bY) - YouTube
 - [Managing Content Views & Subscriptions | Up and Running with Red Hat Satellite 02](https://www.youtube.com/watch?v=GAxec86rfNQ) - YouTube
 - [Patching and Security mitigation | Up and Running with Red Hat Satellite 03](https://www.youtube.com/watch?v=MRuCo5joFzY) - YouTube

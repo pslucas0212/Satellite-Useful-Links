@@ -38,6 +38,7 @@ FYI... [Red Hat Software Subscription Policy.  AKA "The all or nothing clause."]
 - [Planning for Red Hat Satellite](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.10/html/planning_for_red_hat_satellite/index) - I recommend starting here to learn more Red Hat Satellite
 
 ## Administration
+- [21 things every Red Hat Satellite user should know](https://www.redhat.com/en/blog/21-things-every-red-hat-satellite-user-should-know) - A good set of recommendations, but some recommendations may be a bit out of date.  i.e. Simple Content Access
 - [How to backup and restore a Red Hat Satellite 6 system?](https://access.redhat.com/solutions/1595963)
 - [Red Hat Satellite 6.12 - Upgrading and Updating Red Hat Satellite](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.12/html-single/upgrading_and_updating_red_hat_satellite/index)
 - [Red Hat Satellite Upgrade Helper](https://access.redhat.com/labsinfo/satelliteupgradehelper) - This application generates step-by-step instructions for upgrading Satellite from one point release to the next.
